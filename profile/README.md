@@ -3,13 +3,13 @@
 ### Web -> https://www.whereeco.shop
 
 ## Notion을 사용해 프로젝트를 계획하고 경과를 기록했어요
-> [WhereECO's Notion](https://www.notion.so/WhereECO-4efa5567a1b44f4bb300591ff498a5ec)
+### [WhereECO's Notion](https://www.notion.so/WhereECO-4efa5567a1b44f4bb300591ff498a5ec)
 
 ## WhereEco란?
 
 - 제로웨이스트 실천을 돕기 위한 플랫폼
 
-- 기능
+### 기능
   - 제로웨이스트샵을 알려주는 지도 서비스
   - 자유롭게 수정 가능한 일일 실천 체크리스트
   - 제로웨이스트 관련 youtube 동영상 추천
