@@ -3,7 +3,7 @@
 ### Web -> https://www.whereeco.shop
 
 ## Notion을 사용해 프로젝트를 계획하고 경과를 기록했어요
-### [WhereECO's Notion](https://www.notion.so/WhereECO-4efa5567a1b44f4bb300591ff498a5ec)
+### [WhereECO's Notion](https://seed-earthquake-e17.notion.site/WhereECO-4efa5567a1b44f4bb300591ff498a5ec)
 
 ## WhereEco란?
 
