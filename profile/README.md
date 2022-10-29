@@ -17,7 +17,7 @@
 ## 👨‍👨‍👧‍👧 참여인원
 |    [Haeun](https://github.com/hanni66)   |   [Suyeon](https://github.com/tndusy27)  |  [Jakyung](https://github.com/jkkj0414)  |  [Sungwoo](https://github.com/vact19)  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |  :----------------------------------:  |
-|   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196972726-333ee662-36a7-4e68-9cdc-cef745362857.png">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196972931-b7a29b25-3b38-4302-9600-b15877863fd0.jpeg">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196972991-6834c9de-70eb-419a-bb10-6bac7e9cec97.png">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196973071-9dabebc5-057f-4d35-b536-5dad7686619a.png"> |
+|   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196972726-333ee662-36a7-4e68-9cdc-cef745362857.png">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196972931-b7a29b25-3b38-4302-9600-b15877863fd0.jpeg">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/80957486/198843550-e9b42405-ac3e-4a35-9a21-a85e26209808.png">   |   <img width="150" alt="image" src="https://user-images.githubusercontent.com/72500673/196973071-9dabebc5-057f-4d35-b536-5dad7686619a.png"> |
 |              Backend, iOS                |                  FrontEnd                |                 FrontEnd                 |                  Backend               |
 
 ---
